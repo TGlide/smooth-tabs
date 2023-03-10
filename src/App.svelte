@@ -44,8 +44,8 @@
   main {
     background: linear-gradient(
       120deg,
-      hsl(252, 83%, 89%),
-      hsl(252, 83%, 82%, 70%)
+      hsl(252, 83%, 89%, 50%),
+      hsl(252, 83%, 82%, 60%)
     );
   }
 
